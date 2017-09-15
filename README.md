@@ -1,2 +1,1 @@
-# BasicAkkaHTTP
-Basic Akka HTTP Application
+# Basic Akka HTTP Application
