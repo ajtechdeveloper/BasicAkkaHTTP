@@ -18,7 +18,7 @@ jobs:
       with:
         java-version: '8'
         distribution: 'adopt'
-    - name: SBT Compile, run and package
+    - name: SBT Compile and package
       run: |
        sbt compile
        sbt package
