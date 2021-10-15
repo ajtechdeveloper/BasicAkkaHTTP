@@ -21,5 +21,4 @@ jobs:
     - name: SBT Compile, run and package
       run: |
        sbt compile
-       sbt run
        sbt package
